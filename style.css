@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 60px;
+    
+    
+
+}
+.maroon{
+    color: maroon;
+}
+section{
+    display: flex;
+
+}
+.half-width{
+    width: 50%;
+    margin: 60px ;
+    
+}
+.half-width img{
+    width: 70%;
+}
+.explore-button{
+    text-decoration: none;
+    background-color: tomato;
+    color: black;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 4px;
+}
+
